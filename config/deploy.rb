@@ -2,8 +2,8 @@
 require 'mina/bundler'
 require 'mina/git'
 
-set :domain, 'railsdeploymentmina.westus.cloudapp.azure.com'
-set :deploy_to, '/var/www/railsdeploymina'
+set :domain, 'lxss.westus.cloudapp.azure.com'
+set :deploy_to, '/var/www/sinatra_app'
 set :repository, 'https://github.com/shanselman/sinatrademo'
 set :branch, 'master'
 set :user, 'demo'
