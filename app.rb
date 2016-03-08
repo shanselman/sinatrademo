@@ -13,9 +13,11 @@ class HelloWorldApp < Sinatra::Base
 
 <body>
 
-  <h2>Rawr!!</h2>
+  <h2>Hello World</h2>
 
+<!--
   <img src=\"https://windowsdeveloper.azureedge.net/images/win10_skype_320x320.0.gif\" alt=\"Rawr!!!\">
+-->
  
   </body>
   
